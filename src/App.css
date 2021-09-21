@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App{
+  background-color: antiquewhite;
+}
+
+
+.header{
+  height:70px;
+  width:50%;
+  background-color: rgb(77, 77, 71);
+  border: 1px solid black;
+  border-radius: 5px;
+  align-items: center;
+  margin: auto;
+}
+
+.form{
+  margin-top:50px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+.task-input{
+  width:50%;
+  height:26px;
+  margin-bottom:10px;
+}
+
+.button-add{
+  width:100px;
+  color:rgb(240, 240, 247);
+  background-color:blue;
+}
